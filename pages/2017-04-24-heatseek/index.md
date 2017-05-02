@@ -1,12 +1,14 @@
 ---
 title: HeatSeek workshop POC 
-date: "2017-04-19T07:47:56.284Z"
+date: "2017-02-05T07:47:56.284Z"
 path: "/2017-02-05-heatseek-poc/"
 ---
 
 ## Objective
 
 Create a proof of concept LoraWAN node that collects data from a temperature sensor and transmits it through The Things Network to be consumed by the HeatSeek backend data system.
+
+The final code is available at our [Github Repo](https://github.com/things-nyc/heat-seek-feather-m0-lora).
 
 ## Requirements
 
@@ -25,6 +27,10 @@ Create a proof of concept LoraWAN node that collects data from a temperature sen
 4.7K ohm resistor
 
 ~ 3 inches of solid copper wire for LoRa antenna
+
+### Server
+
+
 
 ## Photos!
 
